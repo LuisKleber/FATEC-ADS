@@ -1,5 +1,5 @@
 /*
- * veiculo.h — Definições centrais do sistema CargoTrack
+ * contrato.h — Definições centrais do sistema CargoTrack
  * =======================================================
  * Este arquivo de cabeçalho (header) contém:
  *   - Constantes de pré-processador (#define)
