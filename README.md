@@ -1,94 +1,44 @@
-# 📚 Repositório de Estudos - Faculdade (ADS)
+# Estudos — Análise e Desenvolvimento de Sistemas
 
-Este repositório foi criado com o objetivo de **organizar e armazenar todos os estudos, exercícios e projetos desenvolvidos durante a faculdade de Análise e Desenvolvimento de Sistemas (ADS)**.
-
-Aqui você encontrará conteúdos práticos das disciplinas, servindo tanto como **registro de aprendizado** quanto como **material de consulta futura**.
+Repositório pessoal de estudos, exercícios e projetos desenvolvidos ao longo do curso de **Análise e Desenvolvimento de Sistemas** na FATEC.
 
 ---
 
-## 🎯 Objetivo
+## Conteúdo
 
-- Consolidar o conhecimento adquirido ao longo do curso  
-- Praticar lógica de programação e desenvolvimento de software  
-- Manter um histórico organizado dos exercícios e projetos  
-- Criar um portfólio acadêmico e profissional  
+| Pasta | Descrição |
+|---|---|
+| `algoritmos-c/` | Exercícios e projetos em linguagem C |
+| `poo-java/` | Programação Orientada a Objetos com Java |
+| `banco-de-dados/` | SQL, modelagem e consultas |
+| `desenvolvimento-web/` | HTML, CSS e JavaScript |
 
----
-
-## 🧠 O que você vai encontrar aqui
-
-Este repositório contém:
-
-- ✔️ Exercícios resolvidos  
-- ✔️ Listas de atividades da faculdade  
-- ✔️ Projetos práticos  
-- ✔️ Testes e experimentos  
-- ✔️ Códigos comentados para estudo  
+> A estrutura evolui conforme o avanço do curso.
 
 ---
 
-## 💻 Tecnologias e Linguagens
+## Tecnologias
 
-Ao longo do curso, são utilizadas diferentes tecnologias, como:
-
-- C  
-- Java  
-- Python  
-- SQL  
-- HTML / CSS / JavaScript  
-
-*(Outras podem ser adicionadas conforme o avanço do curso)*
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ---
 
-## 📂 Organização do Repositório
+## Sobre
 
-Os arquivos estão organizados de forma simples e intuitiva, geralmente separados por:
+Os códigos estão comentados e organizados por disciplina. O repositório serve tanto como registro de aprendizado quanto como material de consulta e revisão.
 
-- Linguagem de programação  
-- Disciplina  
-- Tipo de atividade (exercícios, projetos, etc.)
-
-Exemplo de estrutura:
-
-📁 algoritmos-c/  
-📁 poo-java/  
-📁 banco-de-dados/  
-📁 desenvolvimento-web/  
+Erros e refatorações fazem parte do processo — o histórico de commits reflete a evolução do conhecimento.
 
 ---
 
-## 🚀 Sobre o uso deste repositório
+## Autor
 
-Este material é voltado para:
-
-- 📖 Estudos pessoais  
-- 🧪 Prática de programação  
-- 💡 Consulta e revisão de conteúdo  
-
----
-
-## ⚠️ Observação
-
-Os códigos aqui presentes podem evoluir com o tempo, conforme o aprendizado avança.  
-Erros e melhorias fazem parte do processo de aprendizado 🚀
-
----
-
-## 👨‍💻 Autor
-
-Desenvolvido por **Luis Kleber de Arruda**  
-Estudante de Análise e Desenvolvimento de Sistemas  
-
----
-
-## ⭐ Contribuição
-
-Este é um repositório de uso pessoal para estudos, mas sugestões são sempre bem-vindas!
-
----
-
-## 📌 Considerações finais
-
-Este repositório representa minha evolução na área de tecnologia.  
-Cada linha de código aqui faz parte do meu processo de aprendizado.
+**Luis Kleber de Arruda**  
+Estudante de ADS — FATEC  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/seu-usuario)
