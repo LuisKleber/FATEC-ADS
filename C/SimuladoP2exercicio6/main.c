@@ -34,7 +34,7 @@ int main() {
     float *p = vet;
 
     printf("=== Navegacao por Aritmetica de Ponteiros ===\n");
-    printf("Endereço inicial de p: %p\n\n", (void*)p);
+    printf("Endereco inicial de p: %p\n\n", (void*)p);
 
     /* -------------------------------------------------------
      * Loop usando PONTEIRO:

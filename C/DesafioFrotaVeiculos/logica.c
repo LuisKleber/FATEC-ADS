@@ -1,5 +1,5 @@
 /*
- * veiculo.c — Implementação das funções do sistema CargoTrack
+ * logica.c — Implementação das funções do sistema CargoTrack
  * =============================================================
  * Este arquivo contém a lógica de todas as operações da frota.
  *
