@@ -1,0 +1,8 @@
+# Variáveis de ambiente (nunca subir senhas)
+.env
+
+# Dados gerados pelo MySQL em runtime
+volumes/
+
+# Logs
+*.log
