@@ -55,7 +55,7 @@ int main() {
             maior_primeira_linha = matriz[0][j];
         }
     }
-    printf("\nMaior valor da 1ª linha: %d\n", maior_primeira_linha);
+    printf("\nMaior valor da 1 linha: %d\n", maior_primeira_linha);
 
     /* -------------------------------------------------------
      * PASSO 4: Calcular a SOMA dos elementos ACIMA da diagonal
@@ -80,7 +80,7 @@ int main() {
      * Exemplo para DIM=5:
      *   [0][4], [1][3], [2][2], [3][1], [4][0]
      * ------------------------------------------------------- */
-    printf("\n=== Diagonal Secundária (após multiplicação) ===\n");
+    printf("\n=== Diagonal Secundaria (apos multiplicacao) ===\n");
     for (int i = 0; i < DIM; i++) {
         int j = (DIM - 1) - i;          /* j calculado diretamente, sem varrer a matriz toda */
         matriz[i][j] *= maior_primeira_linha;
