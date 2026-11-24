@@ -8,7 +8,7 @@
 | Nome                   | RA |
 |------------------------|----|
 | Luis Kleber de Arruda  | 1630482521037
-| _(nome do parceiro)_   | _(RA)_ |
+| Priscila Maciel       | 1630482521042
 
 ## Descrição
 Sistema em Java (Swing) que gerencia alunos de uma academia **inteiramente em memória** (`List<AlunoAcademia>`): cadastro, pesquisa, registro de frequência, suspensão/reativação por pendência, cálculo de IMC e listagem ordenada de alunos ativos.
